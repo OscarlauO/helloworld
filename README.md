@@ -1,5 +1,5 @@
 # Hello, World!
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-A page created by Oscar. <br>
+A page created by OscarlauO. <br>
 Link: https://oscarlauo.github.io/helloworld/
